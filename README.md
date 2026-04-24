@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:929696a7e79a7cb50911d13e62a9b255bcda53edc38238c2f476d984ea1c5ed0
-size 117
+# Red-Alert-3-Mod-Build-Project
+Do you want to create a MOD for Red Alert 3? Maybe you'll find what you need here!
